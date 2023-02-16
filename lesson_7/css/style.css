@@ -1,0 +1,132 @@
+@import url("reset.css");
+
+/*--------------------VENCE---------------------------------*/
+.vence{
+   background-image: url(../img/photo_vence.png);
+   height: 600px;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   font-weight: 300;
+}
+.content{
+   padding-top: 330px;
+   padding-left: 100px;
+   padding-bottom: 155px;
+   color: #E5E5E5;
+}
+.date{
+   font-family: 'popins';
+   font-weight: 300;
+   font-size: 12px;
+   line-height: 15px;
+}
+.text{
+   font-family: 'popins';
+   font-weight: 700;
+   width: 505px;
+   font-size: 25px;
+   line-height: 40px;
+   color: #F8F9FA;
+}
+.text_2{
+   width: 299px;
+   font-size: 12px;
+   line-height: 20px;
+   font-family: 'popins';
+   font-weight: 300;
+}
+/*--------------------page list---------------------------------*/
+.line_1{
+   margin-left: 115px;
+
+}
+.line_2{
+   margin-left: 115px;
+
+}
+.list_1{
+   margin-left: 155px;
+   font-size: 26px;
+}
+.line_1 li{
+   line-height: 18px;
+}
+.dot_blue li{
+   background: url(../img/dot_blue.png) 9px 8px / 8px no-repeat;
+   padding-left: 25px;
+   line-height: 25px;
+}
+.cross_red li{
+   background: url(../img/cross_red.png) 0 0 / 20px no-repeat;
+   padding-left: 25px;
+   line-height: 25px;
+}
+.cross_blue li{
+   background: url(../img/cross_blue.png) 0 0 / 20px no-repeat;
+   padding-left: 25px;
+   line-height: 25px;
+}
+.arrow_blue li{
+   background: url(../img/arrow_blue.png) 0 0 / 20px no-repeat;
+   padding-left: 25px;
+   line-height: 25px;
+}
+.cross_green li{
+   background: url(../img/cross_green.png) 0 0 / 20px no-repeat;
+   padding-left: 25px;
+   line-height: 25px;
+}
+.star_blue li{
+   background: url(../img/star_blue.png) 0 0 / 20px no-repeat;
+   padding-left: 25px;
+   line-height: 25px;
+}
+/*--------------------SOUND---------------------------------*/
+.sound{
+   height: 570px;
+   width: 1840px;
+   position: relative;
+   background: url(..//img/speaker_1.png) 70% center no-repeat, linear-gradient(295deg, hsla(226, 72%, 52%, 0.08) 35%, rgba(0,0,0,0) 15%),linear-gradient(295deg, hsla(0, 3%, 11%, 0) 0%, rgba(43, 84, 220, 0.08) 29%, rgba(0,0,0,0) 0%)#f4f7ff;;
+   background-repeat: no-repeat;
+   background-color: #F4F7FE;
+}
+
+.text_sound{
+   padding-top: 145px;
+   padding-left: 175px;
+}
+.button {
+   background-color: #3056D3;
+   color: white;
+   width: 139px;
+   height: 44px;
+   border-radius: 30px;
+   padding: 10px 30px;
+   font-family: 'inter';
+   font-weight: 600;
+}
+.sound div{
+display: inline-block;
+
+}
+.price{
+   font-size: 18px;
+   color: #3056D3;
+   font-family: 'inter';
+   font-weight: 600;
+}
+.lorem {
+   width: 630px;
+   font-size: 16px;
+   color: #637381;
+   font-family: 'inter';
+   font-weight: 700;
+}
+.hd{
+   width: 550px;
+   font-size: 36px;
+   color: #212B36;
+   font-family: 'inter';
+   font-weight: 500;
+}
